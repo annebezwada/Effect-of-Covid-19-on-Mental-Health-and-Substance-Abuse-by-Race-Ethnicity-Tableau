@@ -8,7 +8,7 @@ Microsoft AdventureWorks Database Analysis and Visualization with PowerBI. It's 
 ![1  Model Relations]()
 
 #### ii. Effect of Covid19 on Mental Health and Substance Abuse by Race & Ethnicity DASHBOARD
-![2  Sales Overview]()
+![2  Sales Overview](https://github.com/annebezwada/Effect-of-Covid-19-on-Mental-Health-and-Substance-Abuse-by-Race-Ethnicity-Tableau/blob/main/Dashboard%201%20(1).png)
 
 #### iii. Customer Details DASHBOARD
 ![3  Customer Details]()
